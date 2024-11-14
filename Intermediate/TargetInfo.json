@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DonkeyKong_USFX",
+			"Path": "C:\\UNREAL PROYECTOS\\Proyecto principla USFX\\Source\\DonkeyKong_USFX.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DonkeyKong_USFXEditor",
+			"Path": "C:\\UNREAL PROYECTOS\\Proyecto principla USFX\\Source\\DonkeyKong_USFXEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

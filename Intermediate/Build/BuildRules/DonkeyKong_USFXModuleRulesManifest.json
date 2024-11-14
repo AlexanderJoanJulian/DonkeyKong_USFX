@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UNREAL PROYECTOS\\Proyecto principla USFX\\Source\\DonkeyKong_USFX\\DonkeyKong_USFX.Build.cs",
+		"C:\\UNREAL PROYECTOS\\Proyecto principla USFX\\Source\\DonkeyKong_USFX.Target.cs",
+		"C:\\UNREAL PROYECTOS\\Proyecto principla USFX\\Source\\DonkeyKong_USFXEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

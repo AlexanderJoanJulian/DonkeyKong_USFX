@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DonkeyKong_USFX-9014.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UNREAL PROYECTOS\Proyecto principla USFX\Intermediate\Build\Win64\DonkeyKong_USFXEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\UNREAL PROYECTOS\Proyecto principla USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Module.DonkeyKong_USFX.cpp.obj"
+"C:\UNREAL PROYECTOS\Proyecto principla USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Module.DonkeyKong_USFX.gen.cpp.obj"
+"C:\UNREAL PROYECTOS\Proyecto principla USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Default.rc2.res"
+/OUT:"C:\UNREAL PROYECTOS\Proyecto principla USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\UE4Editor-DonkeyKong_USFX-9014.lib"
